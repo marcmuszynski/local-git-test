@@ -3,3 +3,7 @@ This is a file for the git test that I'm doing.
 Hope this works.
 
 And now I've made some changes.
+Aother line of text.
+And now another has been added.
+Another line, this time using typewriter scrolling.
+Oooh, I gotta figure out how to do word wrap.
